@@ -1,4 +1,4 @@
-# Paperbrain
+# PaperBrain
 AI-assisted scientific paper organization and knowledge management.
 # PaperBrain
 
