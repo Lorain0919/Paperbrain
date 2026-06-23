@@ -27,16 +27,9 @@ Structured research note
 
 ### Background
 
-NLRP3 inflammasome activation is associated with mitochondrial dysfunction.
 
 ### Key Findings
 
-* Mitochondrial ROS promotes NLRP3 activation.
-* Mitophagy may suppress excessive inflammasome activation.
 
 ### Related Concepts
 
-* NLRP3
-* ROS
-* Mitophagy
-* PINK1/Parkin
